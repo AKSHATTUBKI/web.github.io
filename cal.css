@@ -1,0 +1,41 @@
+
+
+ #calculatorBody{
+  width: 360px;
+  background: 	#470dda;
+  margin: auto;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px;
+}
+
+#answer{
+  width: 225px;
+  display: inline-block;
+  text-align: right;
+  font-family:sans-serif;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  background: lightgrey;
+}
+input {
+
+  width: 65px;
+  height: 65px;
+  border-radius: 10px;
+  padding: 15px;
+  font-size: 20px;
+  margin: 10px; 
+  font-family: sans-serif;
+  border: none;
+  outline: none;
+  box-shadow: 2px 2px 4px;
+  
+}
+#AC {
+   background: #dbeb04;
+}
+#equals{
+  background: #1E90FF;
+}
